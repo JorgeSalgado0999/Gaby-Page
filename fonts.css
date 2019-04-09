@@ -1,0 +1,41 @@
+/* Tipografgias usadas*/
+@font-face{
+	font-family:dopestyle;
+	src:url(fuentes/dopestyle.ttf);
+}
+
+@font-face{
+	font-family:Litchis;
+	src:url(fuentes/Litchis.ttf);
+}
+
+@font-face{
+	font-family:Nirvana;
+	src:url(fuentes/Nirvana.ttf);
+}
+
+@font-face{
+	font-family:Snowballs;
+	src:url(fuentes/Litchis.ttf);
+}
+
+@font-face{
+	font-family:Sketch;
+	src:url(fuentes/Sketch.ttf);
+}
+
+
+@font-face{
+	font-family:MorrisRomanBlack;
+	src:url(fuentes/MorrisRomanBlack.ttf);
+}
+
+@font-face{
+	font-family:Philosopher;
+	src:url(fuentes/Philosopher.ttf);
+}
+
+@font-face{
+	font-family:Matilda;
+	src:url(fuentes/Matilda.ttf);
+}
